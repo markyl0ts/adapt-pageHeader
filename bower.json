@@ -1,0 +1,17 @@
+{
+    "name": "adapt-pageHeader",
+    "repository": "git://github.com/markyl0ts/adapt-pageHeader",
+    "homepage": "https://github.com/markyl0ts/adapt-pageHeader",
+    "framework": "^2.0.0",
+    "version": "1.0.0",
+    "displayName": "Page Header",
+    "extension" : "pageHeader",
+    "description": "Adds the option of implementing a background graphic or colour to a header element.",
+    "main": "/js/adapt-pageHeader.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_pageHeader"
+}

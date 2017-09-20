@@ -61,3 +61,6 @@ Background-size is limied to "cover","auto","contain".
 ##Browser spec
 
 To Be Completed
+
+Thanks to adapt-block-background, i based this implementation to that extension.
+https://github.com/davegosling/adapt-block-background
